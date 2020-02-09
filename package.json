@@ -1,0 +1,18 @@
+{
+  "name": "@recordar-js/fp",
+  "version": "1.0.0",
+  "description": "Some Util APIs to make Functional Programming in Javascript.",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
